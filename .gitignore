@@ -2,5 +2,7 @@
 *.iml
 target
 .DS_Store
+.idea/workspace.xml
+
 
 
